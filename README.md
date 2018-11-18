@@ -1,1 +1,2 @@
 # political_vote_prediction
+We proposed a project  with a novel task of predicting voting results for congressman based on legislative text and member social network. In order to capture the relationship among congressmen, we utilized sponsor-cosponsors network graph to model the network of congressmen for better learning the member representation and we applied a graph convolutional network model directly combining member social network, legislative text with voting prediction task. The more details of the model is described in the article
